@@ -12,18 +12,45 @@
 }
 .box_1 {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .box_2 {
+}
+.shape {
+}
+.ellipse {
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.icon {
 }
 .image {
 }
-._形状 {
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
 }
 ._图片_ {
 }
-.button {
+.placeholder {
 }
-.primary_button {
-  color:#FFFFFF;
+.button {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -73,25 +100,9 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
 .droplist {
   color:#000000;
   text-align:left;
-}
-.table_cell {
-}
-.sticky_3 {
-  text-align:left;
-}
-.form_hint {
-  color:#999999;
-}
-.form_disabled {
 }
 ._表单提示 {
   color:#999999;
@@ -100,23 +111,65 @@
 }
 ._线段 {
 }
-.radio_button {
+._连接 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.sticky_3 {
   text-align:left;
 }
-.link_button {
-  color:#169BD5;
+.marker {
+  color:#FFFFFF;
 }
-.placeholder {
-}
-.checkbox {
+.paragraph {
   text-align:left;
+}
+.heading_11 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.box_3 {
+}
+.line1 {
 }
 .text_area {
   color:#000000;
   text-align:left;
 }
-.ellipse {
+.tree_node {
+  text-align:left;
 }
-.icon {
+._形状 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
+}
+._图片 {
+}
+.ellipse1 {
 }
 textarea, select, input, button { outline: none; }
