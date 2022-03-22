@@ -46,6 +46,8 @@
 .radio_button {
   text-align:left;
 }
+._形状 {
+}
 ._图片_ {
 }
 .placeholder {
@@ -99,6 +101,8 @@
 }
 ._文本段落 {
   text-align:left;
+}
+.arrow {
 }
 .droplist {
   color:#000000;
@@ -162,7 +166,7 @@
 .tree_node {
   text-align:left;
 }
-._形状 {
+._形状1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
