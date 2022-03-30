@@ -176,4 +176,25 @@
 }
 .ellipse1 {
 }
+.table_cell {
+}
+.box_31 {
+}
+.heading_21 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_12 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
